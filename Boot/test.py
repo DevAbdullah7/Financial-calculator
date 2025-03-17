@@ -21,5 +21,3 @@ table.add_row(
 )
 
 console.print(table)
-
-print('test from mac')
